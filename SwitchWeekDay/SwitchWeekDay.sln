@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchWeekDay", "SwitchWeekDay\SwitchWeekDay.csproj", "{8C7B781C-6E8E-4DB5-845F-46FFC27251CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7B781C-6E8E-4DB5-845F-46FFC27251CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7B781C-6E8E-4DB5-845F-46FFC27251CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7B781C-6E8E-4DB5-845F-46FFC27251CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7B781C-6E8E-4DB5-845F-46FFC27251CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0DA1172-801E-428B-8A9A-C0C1F5E4CC14}
+	EndGlobalSection
+EndGlobal
