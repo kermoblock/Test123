@@ -13,7 +13,7 @@
             {
                 Console.WriteLine("i väärtus on " + i);
                 i++;
-                if (i == 10)
+                if (i > 10)
                     break;
             }
         }
