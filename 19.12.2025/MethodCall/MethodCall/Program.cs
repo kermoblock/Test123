@@ -10,7 +10,7 @@
 
             switch (input)
             {
-            case "Sayhello":
+            case "SayHello":
                 SayHello();
                 break;
 
