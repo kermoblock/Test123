@@ -38,6 +38,16 @@
                 Console.WriteLine();
             }
 
+            double ümbermõõt = 2 * Math.PI * radius;
+
+            double pindala = Math.PI * (radius * radius);
+
+            Console.WriteLine("Ringi ümbermõõt on: " + ümbermõõt);
+
+
+            Console.WriteLine("Ringi pindala on: " + pindala);
+            Console.ReadKey();
+
         }
     }
 }
