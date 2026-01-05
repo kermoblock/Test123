@@ -11,7 +11,7 @@ namespace AnimalLength
             //1. masiivi tegemine
             string[] animalName = { "Koer", "Kass", "Jänes", "Sipelgas", "Lendorav" };
 
-            //2. programm peab aru saama, et s]na pikkusest
+            //2. programm peab aru saama, et sõna pikkusest
             int longerName = animalName[0].Length;
             string longerNameString = animalName[0];
 
