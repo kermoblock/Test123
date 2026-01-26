@@ -12,9 +12,9 @@ namespace Blackjack
             List<Card> discardPile;
             List<PlayerHand> playerHands;
             List<Card> dealerHand;
-            int playerMoney = 100000000;
+            int playerMoney = 1000;
             const int minimumBet = 2;
-            const int maximumBet = 500;
+            const int maximumBet = 5000;
             int previousBet = 10;
             int bet;
             int activeHand;
